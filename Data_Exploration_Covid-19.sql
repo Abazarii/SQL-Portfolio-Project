@@ -50,7 +50,7 @@ ORDER BY TotalDeathCount DESC;
 
 
 -- Selecting the highest death count for each continent
-SELECT continent, MAX(CONVERT(Total_deaths, UNSIGNED INTEGER)) AS TotalDeathCount
+SELECT continent, SUM(new_deaths) AS TotalDeathCount
 FROM PortfolioProject.coviddeaths
 -- WHERE location LIKE '%states%'
 GROUP BY continent
