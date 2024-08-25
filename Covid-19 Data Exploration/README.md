@@ -1,5 +1,4 @@
 # Data Exploration - COVID-19 Dataset
-
 - **File Name**: `Data_Exploration_Covid-19.sql`
 - **Description**: This file includes SQL queries for exploring and analyzing a COVID-19 dataset with vaccination data. The focus is on:
   - Summarizing key statistics
@@ -7,8 +6,7 @@
   - Visualizing important metrics related to COVID-19 and vaccination
 
   The analysis aims to provide a comprehensive understanding of the COVID-19 impact and vaccination trends.
-
-- **SQL Features Used**:
+  - **SQL Features Used**:
   - **Common Table Expressions (CTE)**: Used to simplify complex queries and improve readability.
   - **JOINs**: Employed to combine data from multiple tables and perform in-depth analysis.
   - **Aggregation Functions**: Utilized to calculate summary statistics and other metrics.
