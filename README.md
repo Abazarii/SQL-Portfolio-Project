@@ -50,8 +50,8 @@ Welcome to my SQL portfolio repository! This repository showcases my work on SQL
 
      Explore the detailed analyses through these interactive Tableau dashboards:
 
-          1. [COVID-19 Report Dashboard 1](https://public.tableau.com/views/covid-19_first_report/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-          2. [COVID-19 Report Dashboard 2](https://public.tableau.com/views/covid-19_second_report/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+          - [COVID-19 Report Dashboard 1](https://public.tableau.com/views/covid-19_first_report/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+          - [COVID-19 Report Dashboard 2](https://public.tableau.com/views/covid-19_second_report/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   
 
