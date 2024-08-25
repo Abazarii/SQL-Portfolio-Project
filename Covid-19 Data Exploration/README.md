@@ -1,21 +1,4 @@
-# SQL Portfolio Projects
-
-Welcome to my SQL portfolio repository! This repository showcases my work on SQL projects, including data cleaning and data exploration tasks. Below you will find a brief overview of the files included in this repository and the SQL techniques utilized.
-
-## Contents
-
-### 1. Data Cleaning - Housing Dataset
-
-- **File Name**: `Data_Cleaning_Housing.sql`
-- **Description**: This file contains SQL scripts for cleaning and preprocessing a housing dataset. The tasks performed include:
-  - Handling missing values
-  - Correcting data types
-  - Standardizing data formats
-  - Removing duplicates
-
-  The goal is to prepare the dataset for further analysis and ensure data quality.
-
-### 2. Data Exploration - COVID-19 Dataset
+# Data Exploration - COVID-19 Dataset
 
 - **File Name**: `Data_Exploration_Covid-19.sql`
 - **Description**: This file includes SQL queries for exploring and analyzing a COVID-19 dataset with vaccination data. The focus is on:
@@ -30,6 +13,7 @@ Welcome to my SQL portfolio repository! This repository showcases my work on SQL
   - **JOINs**: Employed to combine data from multiple tables and perform in-depth analysis.
   - **Aggregation Functions**: Utilized to calculate summary statistics and other metrics.
   - **Filtering and Sorting**: Applied to extract and organize relevant data.
+    
 - **Data Story**:
   
     The COVID-19 pandemic has prompted an extensive examination of its impacts through data analysis. By exploring a dataset of COVID-19 deaths and vaccinations, we uncover valuable insights into the pandemic's progression, public health responses, and the disparities in its impact across regions.
@@ -52,12 +36,3 @@ Welcome to my SQL portfolio repository! This repository showcases my work on SQL
     
     1. [COVID-19 Report Dashboard 1](https://public.tableau.com/views/covid-19_first_report/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     2. [COVID-19 Report Dashboard 2](https://public.tableau.com/views/covid-19_second_report/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-## How to Use
-
-1. **Clone the Repository**
-
-   To clone this repository to your local machine, use the following command:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
