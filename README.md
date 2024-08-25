@@ -48,12 +48,11 @@ Welcome to my SQL portfolio repository! This repository showcases my work on SQL
   
     In summary, our data analysis offers a comprehensive view of the COVID-19 pandemic’s impact, the effectiveness of public health responses, and vaccination progress. This approach helps us understand the pandemic’s complexities and informs strategies for future public health challenges.
 
-     Explore the detailed analyses through these interactive Tableau dashboards:
+    Explore the detailed analyses through these interactive Tableau dashboards:
+    
+    1. [COVID-19 Report Dashboard 1](https://public.tableau.com/views/covid-19_first_report/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    2. [COVID-19 Report Dashboard 2](https://public.tableau.com/views/covid-19_second_report/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-          - [COVID-19 Report Dashboard 1](https://public.tableau.com/views/covid-19_first_report/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-          - [COVID-19 Report Dashboard 2](https://public.tableau.com/views/covid-19_second_report/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-  
 
 ## How to Use
 
