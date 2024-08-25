@@ -32,11 +32,6 @@ Welcome to my SQL portfolio repository! This repository showcases my work on SQL
   - **Filtering and Sorting**: Applied to extract and organize relevant data.
 - **Data Story**:
   
-   Explore the detailed analyses through these interactive Tableau dashboards:
-
-    1. [COVID-19 Report Dashboard 1](https://public.tableau.com/views/covid-19_first_report/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-    2. [COVID-19 Report Dashboard 2](https://public.tableau.com/views/covid-19_second_report/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-  
     The COVID-19 pandemic has prompted an extensive examination of its impacts through data analysis. By exploring a dataset of COVID-19 deaths and vaccinations, we uncover valuable insights into the pandemic's progression, public health responses, and the disparities in its impact across regions.
   
     Our analysis begins with an overview of the data, providing a broad perspective on the pandemic’s reach. This initial step helps in understanding the overall structure and volume of the dataset.
@@ -52,6 +47,11 @@ Welcome to my SQL portfolio repository! This repository showcases my work on SQL
     Using temporary tables and views enhances our analysis by simplifying complex calculations and making key metrics readily accessible for visualization.
   
     In summary, our data analysis offers a comprehensive view of the COVID-19 pandemic’s impact, the effectiveness of public health responses, and vaccination progress. This approach helps us understand the pandemic’s complexities and informs strategies for future public health challenges.
+
+     Explore the detailed analyses through these interactive Tableau dashboards:
+
+          1. [COVID-19 Report Dashboard 1](https://public.tableau.com/views/covid-19_first_report/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+          2. [COVID-19 Report Dashboard 2](https://public.tableau.com/views/covid-19_second_report/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   
 
