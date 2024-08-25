@@ -1,12 +1,12 @@
 # SQL Portfolio Projects
 
-Welcome to my SQL portfolio repository! This repository showcases my work on SQL projects, including data cleaning and data exploration tasks. Below you will find a brief overview of the files included in this repository and the SQL techniques utilized.
+Welcome to my SQL portfolio repository! This repository showcases my work on SQL projects, including data cleaning and data exploration tasks. Below you will find a brief overview of the files included in this repository.
 
 ## Contents
 
 ### 1. Data Cleaning - Housing Dataset
 
-- **File Name**: `Data_Cleaning_Housing.sql`
+- **Folder Name**: `Housing Data Exploration`
 - **Description**: This file contains SQL scripts for cleaning and preprocessing a housing dataset. The tasks performed include:
   - Handling missing values
   - Correcting data types
@@ -17,7 +17,7 @@ Welcome to my SQL portfolio repository! This repository showcases my work on SQL
 
 ### 2. Data Exploration - COVID-19 Dataset
 
-- **File Name**: `Data_Exploration_Covid-19.sql`
+- **Folder Name**: `Covid-19 Data Exploration`
 - **Description**: This file includes SQL queries for exploring and analyzing a COVID-19 dataset with vaccination data. The focus is on:
   - Summarizing key statistics
   - Identifying trends
